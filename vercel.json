@@ -1,0 +1,12 @@
+{
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "frontend",
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://TU-BACKEND.onrender.com/api/:path*"
+    }
+  ]
+}
