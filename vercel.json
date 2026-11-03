@@ -6,7 +6,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://TU-BACKEND.onrender.com/api/:path*"
+      "destination": "https://futbol-5-7lfp.onrender.com/api/:path*"
     }
   ]
 }
